@@ -1,0 +1,4 @@
+/home/galaxy/Desktop/hand_sdk/build/CMakeFiles/rebuild_cache.dir
+/home/galaxy/Desktop/hand_sdk/build/CMakeFiles/edit_cache.dir
+/home/galaxy/Desktop/hand_sdk/build/CMakeFiles/hand_test.dir
+/home/galaxy/Desktop/hand_sdk/build/CMakeFiles/hand_sdkLib.dir

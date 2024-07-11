@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/hand_test.dir/hand_test.c.o  -o hand_test  -Wl,-rpath,/home/galaxy/Desktop/hand_sdk/build libhand_sdkLib.so /usr/lib/x86_64-linux-gnu/libprotobuf-c.so /usr/lib/x86_64-linux-gnu/libprotobuf.so -lpthread 
